@@ -33,19 +33,19 @@
   color: #ffffff;
 }
 .bttn-primary:hover {
-  background-color: #4bc819;
+  background-color: #42c40f;
   transform: translateY(-3px);
 }
 
 /* Secondary Bttn Style */
 .bttn-secondary {
   background-color: transparent;
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.418);
   color: #ffffff;
 }
 .bttn-secondary:hover {
   border-color: #ffffff;
-  background: #4bc819;
+  background: #4ed717;
 }
 /* Style End*/
 
