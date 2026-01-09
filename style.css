@@ -82,7 +82,7 @@
 /* Nav Style End*/
 
 /* Main Style Start*/
-.hero-section {
+.banner-section {
   position: relative;
   height: 80vh;
   background: url('./assets/hero-bg.png') no-repeat center center/cover;
@@ -94,7 +94,7 @@
 }
 
 /* Dark Overlay to make text readable */
-.hero-overlay {
+.banner-overlay {
   top: 0;
   left: 0;
   width: 100%;
@@ -105,7 +105,7 @@
   justify-content: center;
 }
 
-.hero-content {
+.banner-content {
   max-width: 800px;
   padding: 20px;
 }
@@ -139,7 +139,7 @@ h1 {
 .highlight {
   color: #4ade80;
 }
-.hero-content p {
+.banner-content p {
   font-size: 70;
   color: #ffffff;
   line-height: 1.6;
@@ -150,12 +150,12 @@ h1 {
 }
 
 /* Buttons */
-.hero-bttn-group {
+.banner-bttn-group {
   display: flex;
   gap: 15px;
   justify-content: center;
 }
-/* Hero Style  End*/
+/* Banner Style  End*/
 
 /* Features Section Start*/
 .features {
