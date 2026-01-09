@@ -401,7 +401,7 @@ h1 {
 }
 
 /* Social Links*/
-.footer-socials {
+.footer-social-links {
   display: flex;
   flex-direction: column;
   align-items: center;
