@@ -33,7 +33,7 @@
   color: #ffffff;
 }
 .bttn-primary:hover {
-  background-color: #42c40f;
+  background-color: #3f26cc;
   transform: translateY(-3px);
 }
 
@@ -45,7 +45,7 @@
 }
 .bttn-secondary:hover {
   border-color: #ffffff;
-  background: #4ed717;
+  background: #3f26cc;
 }
 /* Style End*/
 
@@ -79,6 +79,23 @@
   margin-top: 24px;
   margin-bottom: 24px;
 }
+.nav-menubar li:hover {
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+  border: none;
+  transition: all 0.3s ease;
+  font-family: inherit;
+  gap: 10px;
+  background-color: #3f26cc;
+  transform: translateY(-3px);
+}
+.nav-menubar li:hover a {
+  color: #ffffff;
+}
+
 /* Nav Style End*/
 
 /* Main Style Start*/
